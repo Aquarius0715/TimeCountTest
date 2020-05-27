@@ -1,0 +1,7 @@
+name: TimeCountTestPlugin
+version: 1.0.0
+main: aquarius0715.timecounttestplugin.TimeCountTestPlugin
+api-version: 1.12.2
+commands:
+  timecount:
+    usage: /<commnad>
