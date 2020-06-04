@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import sun.awt.windows.ThemeReader;
 
 import java.awt.*;
-
+//これだとサーバーの時間が止まってしまうので使えません
 public final class TimeCountTestPlugin extends JavaPlugin {
 
     @Override
